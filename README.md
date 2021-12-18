@@ -18,6 +18,5 @@
 <br>
 <br>
   
-  
-책 관련 링크 : https://jojoldu.tistory.com/463
+책 관련 링크 : <a href="https://jojoldu.tistory.com/463" target="_blank">https://jojoldu.tistory.com/463</a>
 </div>
