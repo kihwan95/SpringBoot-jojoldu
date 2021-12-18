@@ -22,4 +22,4 @@
 
 
 
-책 관련 링크 : https://jojoldu.tistory.com/463
+책 관련 링크 : (https://jojoldu.tistory.com/463/){:target="_blank"}
