@@ -18,5 +18,5 @@
 <br>
 <br>
   
-책 관련 링크 : <a href="https://jojoldu.tistory.com/463" target="_blank">https://jojoldu.tistory.com/463</a>
+책 관련 링크 : <a href="https://jojoldu.tistory.com/463" target="_blank">스프링 부트와 AWS로 혼자 구현하는 웹 서비스</a>
 </div>
