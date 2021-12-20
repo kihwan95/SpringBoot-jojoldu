@@ -7,7 +7,7 @@
 ##### java(8)&nbsp;&nbsp;->&nbsp;&nbsp;java(11)
   
 
-##### springBootVersion 2.1.7&nbsp;&nbsp;->&nbsp;&nbsp;springBootVersion  2.4.1
+##### springBootVersion 1.5.9&nbsp;&nbsp;->&nbsp;&nbsp;springBootVersion  2.4.1
   
 
 ##### Gradle 4.8&nbsp;&nbsp;->&nbsp;&nbsp;Gradle 6.8
