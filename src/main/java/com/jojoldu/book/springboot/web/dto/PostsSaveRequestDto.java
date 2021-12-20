@@ -1,12 +1,11 @@
 package com.jojoldu.book.springboot.web.dto;
 
 import com.jojoldu.book.springboot.web.domain.posts.Posts;
-import lombok.Builder;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Getter
 @NoArgsConstructor
+@ToString
 public class PostsSaveRequestDto {
     private String title;
     private String content;
