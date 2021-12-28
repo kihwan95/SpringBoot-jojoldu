@@ -1,0 +1,6 @@
+1640365292719|0|statement|connection 47|url jdbc:h2:mem:23c2f6e9-8eb1-48ba-b6a7-5493b2e48e92|     drop table if exists posts|     drop table if exists posts
+1640365292719|0|statement|connection 47|url jdbc:h2:mem:23c2f6e9-8eb1-48ba-b6a7-5493b2e48e92|     drop table if exists user|     drop table if exists user
+1640365605388|0|statement|connection 47|url jdbc:h2:mem:7b7f87fa-5243-4a0e-99fc-62883f23ab3e|     drop table if exists posts|     drop table if exists posts
+1640365605390|0|statement|connection 47|url jdbc:h2:mem:7b7f87fa-5243-4a0e-99fc-62883f23ab3e|     drop table if exists user|     drop table if exists user
+1640365915435|0|statement|connection 47|url jdbc:h2:mem:bcdb806f-e917-47df-8548-aef3733e1d6f|     drop table if exists posts|     drop table if exists posts
+1640365915436|0|statement|connection 47|url jdbc:h2:mem:bcdb806f-e917-47df-8548-aef3733e1d6f|     drop table if exists user|     drop table if exists user
